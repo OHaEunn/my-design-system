@@ -1,6 +1,6 @@
 {
   "name": "my-design-system-ohaeun",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "description": "A design system for my projects.",
   "main": "dist/index.js",
   "types": "index.d.ts",
